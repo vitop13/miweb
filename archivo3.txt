@@ -1,6 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Chanchito hambriento
 =======
 Chanchito hambriento
 Chanchito con sed rama c
 >>>>>>> ramab
+=======
+Chanchito hambriento
+Chanchito con sed
+>>>>>>> ramac
